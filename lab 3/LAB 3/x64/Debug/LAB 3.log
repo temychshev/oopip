@@ -1,0 +1,7 @@
+﻿  LAB 3.cpp
+C:\Users\Nikita\Desktop\OOP.Lab\LAB 3\LAB 3\LAB 3.cpp(64,24): warning C4267: =: преобразование из "size_t" в "T"; возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  LAB 3.vcxproj -> C:\Users\Nikita\Desktop\OOP.Lab\LAB 3\x64\Debug\LAB 3.exe
